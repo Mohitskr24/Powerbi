@@ -51,7 +51,7 @@ This repository contains a dashboard comparing **Netflix** and **Prime Video** a
 
 ### Files Included:
 - **Dashboard Image**:  
-  ![Netflix vs Prime Video Dashboard](/photo_2024-12-30 11.02.25.jpeg "Netflix vs Prime Video Dashboard")
+  ![Netflix vs Prime Video Dashboard](dashboard_image.jpeg "Netflix vs Prime Video Dashboard")
 
 ---
 
@@ -60,4 +60,4 @@ This repository contains a dashboard comparing **Netflix** and **Prime Video** a
 ### How to Use:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohitsrk24/streaming-platforms-dashboard.git
+   git clone https://github.com/your-username/your-repo.git
