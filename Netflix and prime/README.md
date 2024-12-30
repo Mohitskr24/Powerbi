@@ -54,10 +54,3 @@ This repository contains a dashboard comparing **Netflix** and **Prime Video** a
   ![Netflix vs Prime Video Dashboard](dashboard_image.jpeg "Netflix vs Prime Video Dashboard")
 
 ---
-
-## Usage
-
-### How to Use:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
