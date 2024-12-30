@@ -1,61 +1,56 @@
-# Financial Analysis Dashboard
+# Financial Analysis Dashboard Repository
 
-This repository contains a financial analysis dashboard for **Blank Commerce Private Limited**, showcasing the company's financial performance and key metrics for the fiscal year 2022-23. The dashboard provides visual insights into the company's net worth, turnover, liabilities, assets, revenue, and expenditures.
-
-## Dashboard Overview
-
-### Features:
-
-1. **Net Worth and Turnover**
-   - **Net worth and turnover trends** are depicted from 2017-18 to 2022-23.
-   - The company achieved a **7.2bn turnover** in 2022-23, with a **200% growth** in turnover compared to previous years.
-
-2. **Subscribed Equity Shares**
-   - Bar chart displaying growth in equity shares from 2016 to 2024.
-   - Significant rise in subscribed equity shares over time.
-
-3. **Revenue and Expenditure**
-   - Line graph comparing revenue and expenditure trends from 2017 to 2023.
-   - Revenue peaked at **13bn** in 2022-23, indicating strong financial performance.
-
-4. **Liabilities, Assets, and Shareholders' Funds**
-   - Trend analysis of:
-     - Liabilities
-     - Assets
-     - Shareholders' funds
-     - Profit/Loss
-   - Displays financial dynamics over six years (2017-2023).
-
-5. **Breakdown of Non-Current and Current Liabilities**
-   - **Non-current liabilities:** 8.71%
-   - **Current liabilities:** 91.29%
-
-6. **Shareholders' Funds, Liabilities, and Assets**
-   - Pie chart breakdown:
-     - **Assets:** 50%
-     - **Liabilities:** 38.5%
-     - **Shareholders' equity:** 11.5%
-
-7. **Cash Equivalents, Fixed Assets, and Other Components**
-   - Proportion of financial components in 2022-23:
-     - **Cash and equivalents:** 60.95%
-     - **Fixed assets:** 11.07%
-     - **Non-current assets:** 20.58%
-     - **Current assets:** remaining percentage.
+This repository contains a collection of interactive financial dashboards created using **Power BI**, providing insights into the performance and key metrics of various organizations and platforms, including **Netflix**, **Prime Video**, and **Blank Commerce Private Limited (Blinkit)**.
 
 ---
 
-## File Details
+## Repository Structure
 
-### Files Included:
-- **Dashboard Image:**  
-  `photo_2024-12-30 11.02.21.jpeg` – A comprehensive visualization of financial data.
+The repository is organized into the following subdirectories:
+
+1. **Netflix**:
+   - Dashboard analyzing Netflix's revenue trends, content library, and geographical distribution.
+   - Key highlights:
+     - Revenue growth (2016–2024).
+     - Title count: **8,790 titles**.
+     - Availability in **191 countries**.
+
+2. **Prime Video**:
+   - Dashboard focusing on Amazon's Prime Video platform.
+   - Key highlights:
+     - Revenue growth (2016–2024).
+     - Title count: **9,668 titles**.
+     - Availability in **190 countries**.
+
+3. **Blinkit (Blank Commerce Private Limited)**:
+   - Financial analysis dashboard for **Blinkit**, showcasing:
+     - Turnover and net worth trends.
+     - Revenue vs. expenditure analysis.
+     - Liabilities, assets, and shareholders' funds.
 
 ---
 
-## Usage
+## Features
 
-### How to Use:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/financial-analysis-dashboard.git
+### Netflix and Prime Video Dashboards:
+- **Revenue Trends**:
+  - Both platforms show consistent revenue growth from 2016 to 2024.
+  - Netflix: Reaches nearly **40 billion USD** by 2024.
+  - Prime Video: Exceeds **10 billion USD** by 2024.
+- **Title Counts**:
+  - Netflix: **8,790 titles**.
+  - Prime Video: **9,668 titles**.
+- **Geographical Reach**:
+  - Netflix is available in **191 countries**.
+  - Prime Video is available in **190 countries**.
+
+### Blinkit Dashboard:
+- **Turnover**:
+  - Achieved a **7.2bn turnover** in 2022-23 with a **200% growth** rate.
+- **Revenue vs. Expenditure**:
+  - Revenue peaked at **13bn** in 2022-23.
+- **Liabilities and Assets**:
+  - Assets account for **50%**, liabilities for **38.5%**, and shareholders' equity for **11.5%**.
+
+---
+
