@@ -51,7 +51,7 @@ This repository contains a dashboard comparing **Netflix** and **Prime Video** a
 
 ### Files Included:
 - **Dashboard Image**:  
-  `photo_2024-12-30 11.02.25.jpeg` – A visualization of key data points comparing Netflix and Prime Video.
+  ![Netflix vs Prime Video Dashboard](/photo_2024-12-30 11.02.25.jpeg "Netflix vs Prime Video Dashboard")
 
 ---
 
