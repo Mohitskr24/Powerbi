@@ -53,9 +53,3 @@ This repository contains a financial analysis dashboard for **Blank Commerce Pri
 
 ---
 
-## Usage
-
-### How to Use:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mohitsrk24/blinkit.git
