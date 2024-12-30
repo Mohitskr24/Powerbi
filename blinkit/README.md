@@ -1,4 +1,4 @@
-# Financial Analysis Dashboard
+# Blank Financial Analysis Dashboard
 
 This repository contains a financial analysis dashboard for **Blank Commerce Private Limited**, showcasing the company's financial performance and key metrics for the fiscal year 2022-23. The dashboard provides visual insights into the company's net worth, turnover, liabilities, assets, revenue, and expenditures.
 
